@@ -1,0 +1,18 @@
+.titulo{text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+.subtitulo{text-align: center;
+}
+
+.written{text-align: right;
+}
+
+.container img {
+    float: left;       /* faz o texto envolver */
+    width: 250px;      /* tamanho da imagem */
+    margin-right: 15px; /* espaço entre imagem e texto */
+    margin-bottom: 10px; /* espaço embaixo */
+}
