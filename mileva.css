@@ -4,11 +4,6 @@
 h2{
     text-align: center;
 }
-.subtitulo{text-align: center;
-}
-
-.written{text-align: right;
-}
 
 .container img {
     float: left;       /* faz o texto envolver */
